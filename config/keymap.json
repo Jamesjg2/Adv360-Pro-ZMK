@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                   "&trans",   "&trans",       "&trans",        "&trans",       "&trans",        "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                   "&trans",   "&trans", "&kp LA(LEFT)", "&kp LA(RIGHT)", "&kp LA(BSPC)",  "&kp LG(BSPC)", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&kp LG(LEFT)", "&kp LEFT",     "&kp DOWN",        "&kp UP",    "&kp RIGHT", "&kp LG(RIGHT)", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                             "&trans", "&kp LA(LEFT)", "&kp LA(RIGHT)", "&kp LA(BSPC)",  "&kp LG(BSPC)", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans",       "&trans",                   "&trans",        "&trans",       "&trans",        "&trans", "&trans"
+       "&trans", "&trans", "&trans",                   "&trans",                    "&trans", "&trans",           "&trans",                                                                   "&trans",   "&trans",       "&trans",        "&trans",       "&trans",        "&trans", "&trans",
+       "&trans", "&trans", "&trans",                   "&trans",                    "&trans", "&trans",           "&trans",                                                                   "&trans",   "&trans", "&kp LA(LEFT)", "&kp LA(RIGHT)", "&kp LA(BSPC)",  "&kp LG(BSPC)", "&trans",
+       "&trans", "&trans", "&trans", "&kp LG(LS(LEFT_BRACKET))", "&kp LG(LS(RIGHT_BRACKET))", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&kp LG(LEFT)", "&kp LEFT",     "&kp DOWN",        "&kp UP",    "&kp RIGHT", "&kp LG(RIGHT)", "&trans",
+       "&trans", "&trans", "&trans",                   "&trans",                    "&trans", "&trans",                               "&trans",                     "&trans",                             "&trans", "&kp LA(LEFT)", "&kp LA(RIGHT)", "&kp LA(BSPC)",  "&kp LG(BSPC)", "&trans",
+       "&trans", "&trans", "&trans",                   "&trans",                    "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans",       "&trans",                   "&trans",        "&trans",       "&trans",        "&trans", "&trans"
     ]
   ]
 }
